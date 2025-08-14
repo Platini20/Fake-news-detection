@@ -40,7 +40,9 @@ Recall	0.98
 F1-Score	0.98
 
 🧪 Robustesse
-Le modèle a été testé avec des données générées automatiquement par GPT-2. Résultat : légère baisse de précision, montrant la sensibilité du modèle aux perturbations sémantiques.
+Le modèle a été testé avec des données générées automatiquement par GPT-2. Résultat : Baisse considérable de précision, montrant la sensibilité du modèle aux perturbations sémantiques.
+
+Precision de detection des fake news générées après le fine-tuning	 0.92
 
 👨‍💻 Auteur
 Franklin — Data Science & Intelligence Artificielle
